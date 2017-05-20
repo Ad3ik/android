@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DziennikTreningowy</string>
+
+    <string-array name="choice_activity_array">
+    <item>Bieganie</item>
+    <item>Ćwiczenia Siłowe</item>
+    <item>Marsz</item>
+    <item>Siatkówka</item>
+    <item>Wspinaczka</item>
+    <item>Joga</item>
+    <item>Tenis</item>
+    <item>Treking</item>
+        <item>Pływanie</item>
+</string-array>
+
+
+</resources>
